@@ -1,7 +1,7 @@
 /*This Script Creates a New DataWarehouse Database / Befre creating any database check if the database is already exits
 if the database exists first remove that database and create a new database with same name
 
-This Script will drop the entire 'DataWarehouse' databe if it exits
+This Script will drop the entire 'DataWarehouse' database if it exits
 */
 -- Create Database 'DataWarehouse'
 USE master;
