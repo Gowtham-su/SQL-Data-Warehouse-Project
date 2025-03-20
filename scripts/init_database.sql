@@ -8,7 +8,8 @@ if the database exists first remove that database and create a new database with
 Then it will create important three schemas 'bronze', 'silver', 'gold'
 
 This Script will drop the entire 'DataWarehouse' database if it exits
-use with caution
+All data in the database will be deleted permanently. please proceed with caution
+make sure to take a backup before proceeding.
 */
 -- Create Database 'DataWarehouse'
 USE master;
