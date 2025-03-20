@@ -1,4 +1,8 @@
-/*This Script Creates a New 'DataWarehouse' Database
+/* CREATE DATABASE AND SCHEMAS*/
+
+/*
+SCRIPT PURPOSE:
+This Script Creates a New 'DataWarehouse' Database
 Before creating any database check if the database is already exits
 if the database exists first remove that database and create a new database with same name
 Then it will create important three schemas 'bronze', 'silver', 'gold'
