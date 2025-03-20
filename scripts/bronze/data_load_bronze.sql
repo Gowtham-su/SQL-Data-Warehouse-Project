@@ -32,7 +32,7 @@ BEGIN
 
 		PRINT '>> Inserting Data Into:bronze.crm_cust_info';
 		BULK INSERT bronze.crm_cust_info
-		FROM 'D:\DATA_ANALYTICS\WORK_FILES\DATA WITH BARAA\SQL\DataWarehouse\datasets\source_crm\cust_info.csv'
+		FROM 'datasets/source_CRM/cust_info.csv'
 
 		WITH(
 			FIRSTROW = 2,
