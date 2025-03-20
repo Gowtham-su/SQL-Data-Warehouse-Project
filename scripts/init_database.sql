@@ -2,6 +2,7 @@
 if the database exists first remove that database and create a new database with same name
 
 This Script will drop the entire 'DataWarehouse' database if it exits
+use with caution
 */
 -- Create Database 'DataWarehouse'
 USE master;
