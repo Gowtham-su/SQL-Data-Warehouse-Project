@@ -86,3 +86,5 @@ data-warehouse-project/
 ## 🌟 About Me
 
 Hi there! I'm **Gowtham Subramanian**, I’m an professional and passionate working with data!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-su)
+
