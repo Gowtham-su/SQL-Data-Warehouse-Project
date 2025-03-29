@@ -85,6 +85,6 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Gowtham Subramanian**, I’m an professional and passionate working with data!
+Hi there! I'm **Gowtham Subramanian**, I’m an IT professional and passionate **Data Analyst** on a mission to share knowledge and make working with data enjoyable and engaging!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-su)
 
