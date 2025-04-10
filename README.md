@@ -53,7 +53,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Measure Exploration**
 - **Magnitude Exploration**
 - **Rank Exploration**
-## Link to Data Analytics Project https://github.com/Gowtham-su/SQL-Data-Warehouse-Project/blob/main/docs/data_catalog.md
+## Link to Data Analytics Project [https://github.com/Gowtham-su/SQL-Data-Warehouse-Project/blob/main/docs/data_catalog.md](https://github.com/Gowtham-su/SQL-Data_analytics-project/tree/main)
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 ## 📂 Repository Structure
